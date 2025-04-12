@@ -1,71 +1,34 @@
-## Rafael 👋
+<h1 align="center">👋 Olá, eu sou o Rafael!</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=435&lines=Engenharia+de+Software+%40UTFPR;Desenvolvedor+em+Formação;Tecnologia+e+Inovação" alt="Typing SVG" />
+</p>
 
-Meu nome é Rafael Moraes Trevizan, tenho 19 anos e sou natural de São Paulo. 
+---
 
-Curso Engenharia de Software na UTFPR - Cornélio e estou no 3º período.
+### 📌 **Sobre Mim**
+- 🎓 **3º período de Engenharia de Software** na UTFPR (Cornélio Procópio).
+- 🏡 Natural de **São Paulo**, atualmente no Paraná.
+- 🌱 Aprendendo **Java, C e desenvolvimento web**.
+- 🚀 Foco em **back-end e soluções escaláveis**.
 
-### 🤖 Linguagens e Tecnologias
-          
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" 
-/>
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" 
-/>
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+### 🛠 **Tecnologias e Ferramentas**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,java,git,github,vscode" alt="Tecnologias" />
+</div>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=trevizanrafael&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevizanrafael&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### 📊 **GitHub Stats**
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=trevizanrafael&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="Estatísticas" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevizanrafael&theme=tokyonight&layout=compact&hide_border=true&langs_count=6" alt="Linguagens" />
+</div>
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=trevizanrafael&label=Profile%20Views&color=22D3EE&style=flat" alt="Visitas no perfil" />
 </p>
