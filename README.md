@@ -1,5 +1,4 @@
-## Kauan 👋
-**`Granduando em Engenharia de Software`**
+## Rafael 👋
 
 
 Meu nome é Rafael Moraes Trevizan, tenho 19 anos e sou natural de São Paulo. 
