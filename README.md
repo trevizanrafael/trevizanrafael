@@ -1,46 +1,45 @@
-<h1 align="center">👋 Olá, eu sou o Rafael!</h1>
+<h1 align="center">🌟 Rafael Trevizan</h1>
+<h3 align="center">Engenheiro de Software em Formação</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=435&lines=Engenharia+de+Software+%40UTFPR;Desenvolvedor+em+Formação;Python+|+Java+|+SQL" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Desenvolvimento+Back-end;Java+%7C+Python+%7C+C;Tecnologia+com+Propósito" alt="Typing SVG" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5tY3R4c2R4b3JwY2R1Y2RlZ3B0Z2Z6eW1jNGV4ZzB6dXZ1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+</div>
+
+---
+
+### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,git,github,vscode" alt="Tech Stack" />
+</div>
+
+---
+
+### 📊 GitHub Analytics
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=trevizanrafael&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevizanrafael&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=38BDF8&langs_count=6" />
+</div>
+
+---
+
+### 🌐 Social
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafaelmoraestrevizan/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/trevizanrafael" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 ---
 
-### 📌 **Sobre Mim**
-- 🎓 **3º período de Engenharia de Software** na UTFPR (Cornélio Procópio).
-- 🏡 Natural de **São Paulo**, atualmente no Paraná.
-- 🌱 Aprendendo **Java, Python e bancos de dados SQL**.
-- 🚀 Foco em **back-end e soluções escaláveis**.
-
----
-
-### 🛠 **Tecnologias e Ferramentas**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,java,python,sql,git,github,vscode" alt="Tecnologias" />
+  <img src="https://komarev.com/ghpvc/?username=trevizanrafael&label=Profile+Views&style=flat&color=38BDF8" alt="Profile views" />
 </div>
-
----
-
-### 📊 **GitHub Stats**
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=trevizanrafael&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="Estatísticas" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevizanrafael&theme=tokyonight&layout=compact&hide_border=true&langs_count=6" alt="Linguagens" />
-</div>
-
----
-
-### 📫 **Conecte-se Comigo**
-<div align="center">
-  <a href="https://www.linkedin.com/in/rafaelmoraestrevizan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/trevizanrafael">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=trevizanrafael&label=Profile%20Views&color=22D3EE&style=flat" alt="Visitas no perfil" />
-</p>
