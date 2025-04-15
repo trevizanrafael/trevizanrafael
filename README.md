@@ -2,9 +2,9 @@
 <h3 align="center">Engenheiro de Software em formação | UTFPR</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+UTFPR;Apaixonado+por+Tecnologia+e+Inovação;Python+%7C+Java+%7C+JavaScript+%7C+C;Sempre+aprendendo+e+evoluindo!" alt="Typing SVG" />
-  </a>
+  Estudante de Engenharia de Software apaixonado por tecnologia, desenvolvimento e inovação.  
+  Com forte base em Python, Java e JavaScript, estou sempre buscando criar soluções inteligentes e eficientes.  
+  Atualmente focado em desenvolvimento backend, ciência de dados e boas práticas de engenharia de software.
 </p>
 
 <p align="center">
