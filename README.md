@@ -7,9 +7,7 @@
   Atualmente focado em desenvolvimento backend, ciência de dados e boas práticas de engenharia de software.
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5tY3R4c2R4b3JwY2R1Y2RlZ3B0Z2Z6eW1jNGV4ZzB6dXZ1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMcB8XospGZO8UQq87/giphy.gif" width="300" />
-</p>
+
 
 ---
 
